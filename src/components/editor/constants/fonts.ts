@@ -1,0 +1,52 @@
+// ============================================================================
+// FONT CONSTANTS
+// ============================================================================
+
+export const FONTS = [
+  { label: "Roboto", value: "Roboto, sans-serif", category: "sans-serif" },
+  { label: "Inter", value: "Inter, sans-serif", category: "sans-serif" },
+  { label: "Open Sans", value: "Open Sans, sans-serif", category: "sans-serif" },
+  { label: "Poppins", value: "Poppins, sans-serif", category: "sans-serif" },
+  { label: "Montserrat", value: "Montserrat, sans-serif", category: "sans-serif" },
+  { label: "Raleway", value: "Raleway, sans-serif", category: "sans-serif" },
+  { label: "Ubuntu", value: "Ubuntu, sans-serif", category: "sans-serif" },
+  { label: "Nunito", value: "Nunito, sans-serif", category: "sans-serif" },
+  { label: "Work Sans", value: "Work Sans, sans-serif", category: "sans-serif" },
+  { label: "Manrope", value: "Manrope, sans-serif", category: "sans-serif" },
+  { label: "DM Sans", value: "DM Sans, sans-serif", category: "sans-serif" },
+  { label: "Quicksand", value: "Quicksand, sans-serif", category: "sans-serif" },
+  { label: "Playfair Display", value: "Playfair Display, serif", category: "serif" },
+  { label: "Cormorant Garamond", value: "Cormorant Garamond, serif", category: "serif" },
+  { label: "Lora", value: "Lora, serif", category: "serif" },
+  { label: "Merriweather", value: "Merriweather, serif", category: "serif" },
+  { label: "EB Garamond", value: "EB Garamond, serif", category: "serif" },
+  { label: "Libre Baskerville", value: "Libre Baskerville, serif", category: "serif" },
+  { label: "Crimson Text", value: "Crimson Text, serif", category: "serif" },
+  { label: "PT Serif", value: "PT Serif, serif", category: "serif" },
+  { label: "Spectral", value: "Spectral, serif", category: "serif" },
+  { label: "Bebas Neue", value: "Bebas Neue, cursive", category: "display" },
+  { label: "Anton", value: "Anton, sans-serif", category: "display" },
+  { label: "Righteous", value: "Righteous, cursive", category: "display" },
+  { label: "Archivo Black", value: "Archivo Black, sans-serif", category: "display" },
+  { label: "Oswald", value: "Oswald, sans-serif", category: "display" },
+  { label: "Permanent Marker", value: "Permanent Marker, cursive", category: "display" },
+  { label: "Bangers", value: "Bangers, cursive", category: "display" },
+  { label: "Fredoka One", value: "Fredoka One, cursive", category: "display" },
+  { label: "Dancing Script", value: "Dancing Script, cursive", category: "script" },
+  { label: "Pacifico", value: "Pacifico, cursive", category: "script" },
+  { label: "Great Vibes", value: "Great Vibes, cursive", category: "script" },
+  { label: "Sacramento", value: "Sacramento, cursive", category: "script" },
+  { label: "Satisfy", value: "Satisfy, cursive", category: "script" },
+  { label: "Caveat", value: "Caveat, cursive", category: "script" },
+  { label: "Roboto Mono", value: "Roboto Mono, monospace", category: "monospace" },
+  { label: "Fira Code", value: "Fira Code, monospace", category: "monospace" },
+  { label: "JetBrains Mono", value: "JetBrains Mono, monospace", category: "monospace" },
+  { label: "Space Mono", value: "Space Mono, monospace", category: "monospace" },
+];
+
+export const FONT_WEIGHTS = [
+  { label: "Regular", value: "normal" },
+  { label: "Medium", value: "500" },
+  { label: "Semi Bold", value: "600" },
+  { label: "Bold", value: "bold" },
+];
